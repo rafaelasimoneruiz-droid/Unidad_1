@@ -42,8 +42,8 @@
 **Simone:** Excelente, con esto tengo claro el modelo. Muchas gracias a ambos.
 
 ## Entidades identificadas
-* Profesores: nombre, apellidos, contacto, fecha de nacimiento, detalles sobre nivel académico
-* Estudiantes: nombre, apellidos, contacto, tutores
+* Profesores: nombre, apellidos, contacto, fecha de nacimiento, detalles sobre nivel académico.
+* Estudiantes: nombre, apellidos, contacto, tutores.
 * Nivel: desde el nivel Elemental A, B, Elemental , Nivel 1-7, Técnico medio y Técnico Superior.
   Etsos niveles tienen variantes según la edad del estudiante, se dividen entre "Niños" y "Adultos".
 * Curricula: Técnica dependiendo del nivel en que se encuentren.
