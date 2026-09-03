@@ -2,9 +2,11 @@
 ---
 * **Problemática a resolver:** Digitalizar y centralizar toda la información sobre profesores, estduiantes, detalles curriculares, entre otros. del Taller de Piano. Ya que los dueños tienen toda esta información escrita a mano, haciendo la consulta de información más morosa y ocupando espacio físico innecesario.
 ## Transcripción de la entrevista de levantamiento de requerimientos
+
 **Entrevistador:** Simone Ruiz (estudiante de la UAGRM)
 
 **Entrevistados:** Prof. Giovanni Moreno y Prof. Carmen Fonseca
+
 ---
 **Simone:** Buenas tardes, profesores. Como saben, estoy desarrollando un sistema para centralizar la información de la escuela, ya que hoy todo se maneja en papel. Quería empezar preguntando: ¿cómo organizan actualmente a sus alumnos?
 
