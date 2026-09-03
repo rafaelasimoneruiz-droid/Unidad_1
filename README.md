@@ -1,6 +1,6 @@
 # Elaboración de sistema de centralización de datos para el area administrativa del Taller de Piano Moreno-Fonseca
 ---
-* **Problemática a resolver:** Digitalizar y centralizar toda la información sobre profesores, estdiantes, detalles curriculares, entre otros. del Taller de Piano. Ya que los dueños tienen toda esta información escrita a mano, haciendo la consulta de información más morosa y ocupando espacio físico innecesario.
+* **Problemática a resolver:** Digitalizar y centralizar toda la información sobre profesores, estduiantes, detalles curriculares, entre otros. del Taller de Piano. Ya que los dueños tienen toda esta información escrita a mano, haciendo la consulta de información más morosa y ocupando espacio físico innecesario.
 ## Transcripción de la entrevista de levantamiento de requerimientos
 **Entrevistador:** Simone Ruiz (estudiante de la UAGRM)
 **Entrevistados:** Prof. Giovanni Moreno y Prof. Carmen Fonseca
@@ -42,6 +42,14 @@
 **Simone:** Excelente, con esto tengo claro el modelo. Muchas gracias a ambos.
 
 ## Entidades identificadas
-* Profesores, Estudiantes, Nivel, Curricula, Repertorio, Obra, Festivales.
+* Profesores: nombre, apellidos, contacto, fecha de nacimiento, detalles sobre nivel académico
+* Estudiantes: nombre, apellidos, contacto, tutores
+* Nivel: desde el nivel Elemental A, B, Elemental , Nivel 1-7, Técnico medio y Técnico Superior.
+  Etsos niveles tienen variantes según la edad del estudiante, se dividen entre "Niños" y "Adultos".
+* Curricula: Técnica dependiendo del nivel en que se encuentren.
+* Repertorio: sugerido según el nivel al que pertenecen. Contiene datos sobre el autor, época y , Obra.
+* Festivales: detalles sobre lugar, fechas y categoría.
+  
 ## Diagrama Enrtidad Relación para el Taller de Piano Moreno Fonseca
-<img width="448" height="343" alt="image" src="https://github.com/user-attachments/assets/35ca8aee-61a1-410b-b788-e8e809d1e6be" />
+<img width="640" height="437" alt="image" src="https://github.com/user-attachments/assets/c93ad4ba-dbd8-4300-85d8-24ce33ca54f8" />
+
