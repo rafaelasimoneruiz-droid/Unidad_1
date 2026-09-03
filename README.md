@@ -1,6 +1,6 @@
 # Elaboración de sistema de centralización de datos para el area administrativa del Taller de Piano Moreno-Fonseca
 ---
-* Problemática a resolver: Digitalizar y centralizar toda la información sobre profesores, estdiantes, detalles curriculares, entre otros. del Taller de Piano. Ya que los dueños tienen toda esta información escrita a mano, haciendo la consulta de información más morosa y ocupando espacio físico innecesario.
+* **Problemática a resolver:** Digitalizar y centralizar toda la información sobre profesores, estdiantes, detalles curriculares, entre otros. del Taller de Piano. Ya que los dueños tienen toda esta información escrita a mano, haciendo la consulta de información más morosa y ocupando espacio físico innecesario.
 ## Transcripción de la entrevista de levantamiento de requerimientos
 **Entrevistador:** Simone Ruiz (estudiante de la UAGRM)
 **Entrevistados:** Prof. Giovanni Moreno y Prof. Carmen Fonseca
