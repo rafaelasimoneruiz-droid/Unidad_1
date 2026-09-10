@@ -21,7 +21,6 @@ Finalmente, se retomó el tema de los festivales. Carmen explicó que estos tien
 
 ---
 
-Pequeña corrección: escribiste "planteó2" — imagino que fue un error de tipeo y querías decir solo "planteó".
 ## Entidades identificadas
 * Profesores: nombre, apellidos, contacto, fecha de nacimiento, detalles sobre nivel académico.
 * Estudiantes: nombre, apellidos, contacto, tutores.
