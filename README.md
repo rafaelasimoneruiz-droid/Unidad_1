@@ -8,42 +8,23 @@
 **Entrevistados:** Prof. Giovanni Moreno y Prof. Carmen Fonseca
 
 ---
-**Simone:** Buenas tardes, profesores. Como saben, estoy desarrollando un sistema para centralizar la información de la escuela, ya que hoy todo se maneja en papel. Quería empezar preguntando: ¿cómo organizan actualmente a sus alumnos?
+Aquí está el resumen ajustado, sin mencionar a Simone directamente:
 
-**Carmen:** Los organizamos por nivel. Cada alumno pertenece a un nivel según su avance técnico y su repertorio, no por edad.
+---
 
-**Giovanni:** Exacto. Y el problema es que esa información está en cuadernos distintos, cada uno con el suyo. Si Carmen quiere saber en qué nivel está un alumno mío, tiene que preguntarme directamente.
+La conversación comenzó planteando el problema central del proyecto a los dueños y profesores de la escuela: la información hoy se maneja en papel, dispersa en cuadernos individuales. Giovanni, profesor de la escuela, lo resumió con claridad al contar que si Carmen quiere saber en qué nivel está un alumno suyo, "tiene que preguntarme directamente" — evidenciando la falta de un registro compartido.
 
-**Simone:** Entiendo. Hablemos entonces del nivel como concepto central. ¿Cuántos niveles manejan y cómo los definen?
+A partir de ahí, Carmen, también profesora y dueña de la escuela, explicó el criterio que organiza todo: los alumnos se agrupan "por nivel, según su avance técnico y su repertorio, no por edad". Enumeró los niveles existentes (Elemental A, Elemental B, Elemental, Nivel 1-7) y aclaró que cada uno cuenta con un nombre y una descripción general de lo que el alumno debe dominar para avanzar. Giovanni complementó esta idea señalando que cada nivel tiene además "una currícula asociada", compuesta por piezas, escalas, ejercicios técnicos y conceptos teóricos propios de esa etapa. Carmen lo ilustró con un ejemplo concreto: en Básico 1 se trabajan escalas de una octava, piezas de Bastien y teoría de intervalos simples, contenido que debería quedar registrado como parte del nivel. Giovanni añadió un matiz importante: el paso de un nivel a otro no es automático, sino que depende de una evaluación de los profesores, por lo que también deberían registrarse los requisitos de promoción.
 
-**Carmen:** Manejamos niveles como Iniciación, Básico 1, Básico 2, Intermedio, Avanzado... Cada uno tiene un nombre y una descripción general de lo que el alumno debe dominar para pasar al siguiente.
+Con el nivel definido como eje del sistema, se planteó la pregunta de qué datos necesitaban guardar de cada alumno. Carmen mencionó nombre completo, edad, datos de contacto de los padres en caso de ser menor, fecha de ingreso a la escuela y nivel actual. Giovanni sumó un punto que enriquece el modelo con una dimensión histórica: registrar también el historial de niveles anteriores, para poder ver la evolución del alumno con el tiempo.
 
-**Giovanni:** Y cada nivel tiene una currícula asociada: las piezas, escalas, ejercicios técnicos y conceptos teóricos que corresponden a ese nivel.
+Sobre los propios profesores, Giovanni fue quien detalló los requerimientos: nombre, especialidad (si la tiene), los alumnos que tiene asignados, y en qué niveles está habilitado para enseñar.
 
-**Simone:** ¿Entonces cada nivel tiene un contenido curricular propio, y ese contenido puede tener varias piezas o temas dentro?
+Finalmente, se retomó el tema de los festivales. Carmen explicó que estos tienen categorías que suelen corresponder a los niveles o a rangos de niveles, y que un alumno se inscribe según su nivel vigente. Giovanni cerró la entrevista con un requerimiento funcional concreto: poder ver rápidamente qué alumnos de cada nivel están preparados para participar en el próximo festival.
 
-**Carmen:** Sí. Por ejemplo, en Básico 1 vemos escalas de una octava, piezas de Bastien, y teoría de intervalos simples. Eso debería quedar registrado como el "contenido" de ese nivel.
+---
 
-**Giovanni:** También sería útil registrar los requisitos para pasar de un nivel a otro. No es automático; nosotros evaluamos.
-
-**Simone:** Perfecto, eso me da una buena base para el nivel. Ahora, ¿qué datos necesitan guardar de cada alumno?
-
-**Carmen:** Nombre completo, edad, datos de contacto de los padres si es menor, la fecha en que ingresó a la escuela, y el nivel actual en el que está.
-
-**Giovanni:** Y el historial de niveles anteriores también sería útil, para ver la evolución del alumno.
-
-**Simone:** ¿Y de ustedes como docentes? ¿Qué información debería registrar el sistema?
-
-**Giovanni:** Nombre, especialidad si la hay, y qué alumnos tiene asignados. También en qué niveles está habilitado para enseñar.
-
-**Simone:** Última pregunta: mencionaron festivales antes. ¿Cómo se relacionan con los niveles y alumnos?
-
-**Carmen:** Los festivales tienen categorías que normalmente corresponden a los niveles, o a rangos de niveles. Un alumno se inscribe a un festival según su nivel actual.
-
-**Giovanni:** Y nos gustaría poder ver rápidamente qué alumnos de cada nivel están preparados para participar en el próximo festival.
-
-**Simone:** Excelente, con esto tengo claro el modelo. Muchas gracias a ambos.
-
+Pequeña corrección: escribiste "planteó2" — imagino que fue un error de tipeo y querías decir solo "planteó".
 ## Entidades identificadas
 * Profesores: nombre, apellidos, contacto, fecha de nacimiento, detalles sobre nivel académico.
 * Estudiantes: nombre, apellidos, contacto, tutores.
