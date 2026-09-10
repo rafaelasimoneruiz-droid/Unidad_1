@@ -8,9 +8,6 @@
 **Entrevistados:** Prof. Giovanni Moreno y Prof. Carmen Fonseca
 
 ---
-Aquí está el resumen ajustado, sin mencionar a Simone directamente:
-
----
 
 La conversación comenzó planteando el problema central del proyecto a los dueños y profesores de la escuela: la información hoy se maneja en papel, dispersa en cuadernos individuales. Giovanni, profesor de la escuela, lo resumió con claridad al contar que si Carmen quiere saber en qué nivel está un alumno suyo, "tiene que preguntarme directamente" — evidenciando la falta de un registro compartido.
 
